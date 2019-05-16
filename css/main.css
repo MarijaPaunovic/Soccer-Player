@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.bodyDiv {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-image: url("../img/field.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.bodyDiv img {
+    width: 8%;
+    position: absolute;
+}
+
+.stop-button {
+    position: absolute;
+    width: 50px;
+    bottom: 25px;
+    right: 15px;
+}
+
+.refresh-button {
+    position: absolute;
+    width: 50px;
+    bottom: 25px;
+    left: 15px;
+}
