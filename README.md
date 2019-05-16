@@ -1,4 +1,5 @@
 # Soccer-Player
+
 Simple JQUERY event exercise
 
-Go to link: https://marija-paunovic-soccerplayer.netlify.com
+To see project, please go to link: https://marija-paunovic-soccerplayer.netlify.com
